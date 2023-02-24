@@ -1,6 +1,6 @@
 import aiohttp
 
-from contactlist import ContactList
+from ContactList import ContactList
 
 
 class SmartEmailingConnector:
